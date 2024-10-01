@@ -65,8 +65,6 @@ Password:</label>
 <label>
 Re-type Password:</label>
 <input type = "Password" id = "repass" name="repass"/><br><br><br>
-<input type="button" value="submit"/>
-</form>
-</body>
+
 </html>
 
